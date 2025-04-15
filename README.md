@@ -3,6 +3,8 @@
 A **simple and efficient task management system** built with **Python**, developed during the **Samsung Innovation Campus (SIC)** course.  
 It supports adding, deleting, updating, and viewing tasks with various attributes like deadlines, priorities, and more.
 
+> 🛠️ Also packaged as an `.exe` file using **PyInstaller**, making it easy to run on any Windows machine without Python.
+
 ---
 
 ## 🧾 Features
