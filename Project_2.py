@@ -15,6 +15,7 @@ def main():
               "[9] Add notes to a task\n"
               "[10] Display task statistics\n"
               "[11] Quit")
+        
         while True:
             try:
                 choice = int(input("Please enter your choice "))
