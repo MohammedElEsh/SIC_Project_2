@@ -1,77 +1,63 @@
 [
   {
-    "title": "Task 1",
-    "description": "Complete task 1 by tomorrow",
-    "due date": "05/9/2023",
-    "status": "in progress"
-  },
-  {
-    "title": "Task 2",
-    "description": "Submit report by end of the week",
-    "due date": "05/10/2023",
-    "status": "incomplete"
-  },
-  {
-    "title": "Task 3",
-    "description": "Call client for follow-up",
-    "due date": "05/11/2023",
-    "status": "completed"
-  },
-  {
-    "title": "xxx",
-    "description": "xxx",
-    "due date": "20/10/2025",
-    "status": "xxx",
-    "type": " Personal"
-  },
-  {
-    "title": "zzz",
-    "description": "zzz",
-    "due date": "20/11/2024",
-    "status": "zzz",
-    "type": " Work"
-  },
-  {
-    "title": "xxx",
-    "description": "xxx",
-    "due date": "2/2/2",
-    "status": "xxx",
-    "type": "Personal"
-  },
-  {
-    "title": "sic",
-    "description": "support",
-    "due date": "12/8/2023",
-    "status": "completed",
-    "type": "Work"
-  },
-  {
-    "title": "zzz",
-    "description": "zzz",
-    "due date": "1/1/1",
-    "status": "Incomplete",
-    "type": "Personal"
-  },
-  {
-    "title": "zzz",
-    "description": "zzz",
-    "due date": "2/2/2",
-    "status": "Incomplete",
-    "type": "Personal"
-  },
-  {
-    "title": "aaa",
-    "description": "aaa",
-    "due date": "4/4/4",
-    "status": "Incomplete",
-    "type": "Personal"
-  },
-  {
-    "title": "xxx",
-    "description": "xxx",
-    "due date": "xxx",
+    "title": "Buy groceries",
+    "description": "Purchase milk, eggs, and bread from the supermarket.",
+    "deadline date": "18/11/2023",
+    "deadline time": "18:00",
+    "creation datetime": "10/11/2023 14:30",
     "status": "Incomplete",
     "type": "Personal",
-    "category": "xxx"
+    "category": "Shopping",
+    "location": "Local Supermarket",
+    "assignee": "John Doe"
+  },
+  {
+    "title": "Team meeting",
+    "description": "Discuss project milestones and deliverables.",
+    "deadline date": "16/11/2023",
+    "deadline time": "10:00",
+    "creation datetime": "10/11/2023 09:00",
+    "status": "Incomplete",
+    "type": "Work",
+    "priority": "High",
+    "location": "Office",
+    "assignee": "Jane Smith",
+    "notes": "Hard Job"
+  },
+  {
+    "title": "Submit project report",
+    "description": "Finalize and submit the project report to the manager.",
+    "deadline date": "18/11/2023",
+    "deadline time": "17:00",
+    "creation datetime": "11/11/2023 10:00",
+    "status": "Incomplete",
+    "type": "Work",
+    "priority": "Medium",
+    "location": "Office",
+    "assignee": "Alice Johnson"
+  },
+  {
+    "title": "Yoga class",
+    "description": "Attend the weekly yoga class at the community center.",
+    "deadline date": "19/11/2023",
+    "deadline time": "08:00",
+    "creation datetime": "11/11/2023 09:00",
+    "status": "Incomplete",
+    "type": "Personal",
+    "category": "Fitness",
+    "location": "Community Center",
+    "assignee": "John Doe"
+  },
+  {
+    "title": "Client presentation",
+    "description": "Prepare and deliver the presentation to the client.",
+    "deadline date": "21/11/2023",
+    "deadline time": "14:00",
+    "creation datetime": "11/11/2023 11:00",
+    "status": "Incomplete",
+    "type": "Work",
+    "priority": "High",
+    "location": "Client's Office",
+    "assignee": "Jane Smith"
   }
 ]
